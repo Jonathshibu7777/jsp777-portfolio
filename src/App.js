@@ -8,7 +8,7 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import { Toaster } from "../../components/ui/toaster";
+import { Toaster } from "./components/ui/";
 
 function App() {
   return (
